@@ -12,7 +12,7 @@ html,body {
 }
 
 main{
-    heingt: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: coloumn;
     justify-content: center;
